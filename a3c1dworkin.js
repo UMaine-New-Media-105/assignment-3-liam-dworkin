@@ -1,3 +1,4 @@
+let x = 50;
 function setup() {
   createCanvas(500, 500);
 }
@@ -7,19 +8,16 @@ function draw() {
 
   //scaled to 1:1
 
-  yeetBall(250, 415, 1);
+  yeetBall(mouseX, 430, 1);
 
   //scaled up 1:1.5 for reference at a larger size
-
+  
   yeetBall(250, 120, 1.5);
 }
 
-//I wanna make my lil sprite into my game character. I plan on adding in secondary animations that change the face text/font/size 
-so that I can do a few different animations without actually having to do a ton of visual aid and coding. In one of my smaller functions 
-for an exit ticket I added in a lil face changing aspect in the font functions.
+//I wanna make my lil sprite into my game character. I plan on adding in secondary animations that change the face text/font/size so that I can do a few different animations without actually having to do a ton of visual aid and coding. In one of my smaller functions for an exit ticket I added in a lil face changing aspect in the font functions.
 
-//I did change the colors and face from the original but I kept the semi-gradient color scheme and the kawaii face text. I also made 
-him egg shaped for added fluffiness. I think it's cute but I can add more work into the composition if it's not good enough.
+//I did change the colors and face from the original but I kept the semi-gradient color scheme and the kawaii face text. I also made him egg shaped for added fluffiness. I think it's cute but I can add more work into the composition if it's not good enough.
 
 //I made a function and called it back- I might add a slider for gradience in HSLA if I can to be called back in the function in 'draw'
 
@@ -44,5 +42,5 @@ function yeetBall(x, y, size) {
   fill("salmon");
   textSize(20);
   text("◍   ◍", -25, 0);
-  pop();
+  pop();  
 }
