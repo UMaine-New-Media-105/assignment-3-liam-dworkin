@@ -41,6 +41,6 @@ function yeetBall(x, y, size) {
   text("( ^-^ )", -31, -4);
   fill("salmon");
   textSize(20);
-  text("◍   ◍", -25, 0);
-  pop();  
+  text("◍    ◍", -27, 6);
+  pop();
 }
