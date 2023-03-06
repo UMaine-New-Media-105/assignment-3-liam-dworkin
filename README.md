@@ -33,4 +33,8 @@ The function itself is not very complex and neither is calling it back in the dr
 special aspect is the use of text. I plan to use multiple lines of text for facial animations to easily demark activity in the sprite during the game. Currently it is 
 a purely static image, although using conditionals would be my method for creating the required effects in a more complete game. 
 
-Code link: https://editor.p5js.org/liamdworkin/sketches/tXOJVFTOz
+Code link: (Part 1) https://editor.p5js.org/liamdworkin/sketches/tXOJVFTOz
+
+Part 2 incorporates in a basic animation with a conditional
+
+Code link: (Part 2) https://editor.p5js.org/liamdworkin/sketches/FkPSYkUlB
