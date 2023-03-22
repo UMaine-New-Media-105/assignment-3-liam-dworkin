@@ -39,6 +39,10 @@ Part 2 incorporates in a basic animation with a conditional
 
 Code link: (Part 2) https://editor.p5js.org/liamdworkin/sketches/FkPSYkUlB
 
-Part 3 adds in the random seed drop 
+Part 3 adds in the random seed drop (coin function)
 
 Code link: (Part 3) https://editor.p5js.org/liamdworkin/sketches/b2lxF1B7c
+
+Part 4 adds in a function that causes the coin (seed) to drop. It works by adding a speed variable to the Y position when the mouse is pressed once. 
+
+Code link: (Part 4) https://editor.p5js.org/liamdworkin/sketches/UASv-TnjO
