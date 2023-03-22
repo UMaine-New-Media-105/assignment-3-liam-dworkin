@@ -38,3 +38,7 @@ Code link: (Part 1) https://editor.p5js.org/liamdworkin/sketches/tXOJVFTOz
 Part 2 incorporates in a basic animation with a conditional
 
 Code link: (Part 2) https://editor.p5js.org/liamdworkin/sketches/FkPSYkUlB
+
+Part 3 adds in the random seed drop 
+
+Code link: (Part 3) https://editor.p5js.org/liamdworkin/sketches/b2lxF1B7c
