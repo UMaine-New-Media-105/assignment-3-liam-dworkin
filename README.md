@@ -46,3 +46,7 @@ Code link: (Part 3) https://editor.p5js.org/liamdworkin/sketches/b2lxF1B7c
 Part 4 adds in a function that causes the coin (seed) to drop. It works by adding a speed variable to the Y position when the mouse is pressed once. 
 
 Code link: (Part 4) https://editor.p5js.org/liamdworkin/sketches/UASv-TnjO
+
+Part 4.1 is another attempt to actually complete the game. I used some code from William's A3C4 game to try and add some actual functionality into my very broken game. It has worked to an extent, adding randomly appearing coins that continue to fall; however, there is no hit detection and therefore the scoring isn't working either. 
+
+Code link: (Part 4.1) https://editor.p5js.org/liamdworkin/sketches/AyIF81JI3
